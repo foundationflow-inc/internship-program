@@ -47,8 +47,8 @@ Welcome to our intensive one-week internship program focusing on web development
 🎥 **Recommended Video Tutorial**:
 
 [![Developing an LLM: Building, Training, Finetuning](https://img.youtube.com/vi/kPGTx4wcm_w/0.jpg)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
-[![Intro to Large Language Models]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-[![Building LLMs from the Ground Up]](https://www.youtube.com/watch?v=quh7z1q7-uc)
+[![Intro to Large Language Models](https://img.youtube.com/vi/zjkBMFhNj_g/0.jpg)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+[![Building LLMs from the Ground Up](https://img.youtube.com/vi/quh7z1q7-uc/0.jpg)](https://www.youtube.com/watch?v=quh7z1q7-uc)
 
 
 💻 **Task**: Create a working Google Colab notebook for fine-tuning a LAVA 1.6 7B 8-bit model. Your notebook should include:
