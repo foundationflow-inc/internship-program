@@ -14,7 +14,8 @@ Welcome to our intensive one-week internship program focusing on web development
 
 🎥 **Recommended Video Tutorial**:
 
-[![NextJS Crash Course](https://img.youtube.com/vi/mTz0GXj8NN0/0.jpg)](https://www.youtube.com/watch?v=mTz0GXj8NN0 "NextJS Crash Course")
+- NextJS : https://www.youtube.com/watch?v=F3vc_vnassE&list=PLSJT2JkBBWbGADVH8ENbu_FFWoQ-68LSX
+- Jotai : https://www.youtube.com/watch?v=eVfw4pRDUIY&t=34s
 
 💻 **Task**: Develop a responsive web application for a fictional product catalog using NextJS and Tailwind CSS. Implement state management with Jotai.
 
