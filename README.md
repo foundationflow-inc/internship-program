@@ -46,7 +46,7 @@ Welcome to our intensive one-week internship program focusing on web development
 
 🎥 **Recommended Video Tutorial**:
 
-[![Developing an LLM: Building, Training, Finetuning]](https://www.youtube.com/watch?v=kPGTx4wcm_w)
+[![Developing an LLM: Building, Training, Finetuning](https://img.youtube.com/vi/kPGTx4wcm_w/0.jpg)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 [![Intro to Large Language Models]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 [![Building LLMs from the Ground Up]](https://www.youtube.com/watch?v=quh7z1q7-uc)
 
